@@ -1,0 +1,1 @@
+C:\Users\Vlad Markin\source\repos\Weather-Desktop\Weather-Desktop.csproj;x64
